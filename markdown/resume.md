@@ -1,100 +1,77 @@
-Johnny Coder
-============
+# Paul Sacawa
 
-----
+<!-- > Full Stack Web Developer -->
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Email: <psacawa@math.toronto.edu> • Telephone: 647-403-3786 • Github: [github.com/psacawa](github.com/psacawa)
 
-----
+---
 
-Education
----------
+## Technologies/Skills
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+- **Python**
+  - Strong understanding of standard library and PyPI ecosystem
+  - Deep knowledge of **Django**, **Django REST Framework**  web framework: read the majority of their source code
+  - Other major libraries: `asyncio`, `spacy`, `pytest`, `mypy`
+- **Javascript (browser/nodejs), Typescript**
+  - Primarily focussed on frontend development in **React** with **Typescript**
+  - Other major libraries: **`material-ui`**, `expressjs`, `formik`, `eslint`, `webpack`, `jest`, `react-query`, `redux`
+- **SQL**
+  - Advanced **PostgreSQL**, intermediate SQLite
+  - PostgreSQL query optimization, database administration
+  - Contributor and member of dev team of `pgcli`, most popular third-party PostgreSQL CLI client
+- **AWS Cloud** 
+  - Strong knowledge of major services: EC2, RDS, Elasticache, S3, Cloudfront, ELB, IAM, EKS, SES, Route53
+  - Other services used: CloudFormation (resources as yaml), Polly (speech synthesis)
+- **Containers**
+  - Strong knowledge of docker
+  - Practical knowledge of docker-compose as used in development environments
+  - Basic Kubernetes, including Minikube and production via Elastic Kubernetes Service
+- **Other Technologies**
+  - HTML5, including Javascript browser APIs
+  - POSIX shell (zsh/bash)
+  - nginx deployed as reverse proxy, including SSL via Let's Encrypt
+  - Redis, including Pub/Sub via channels
+  - Advanced git
+  - Advanced jq (JSON query/processing language domain-specific language)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+- **Additional Details**
+  - Recreational coder and informatics enthusiast since 2012
+  - Linux enthusiast since 2014
+  - Strong knowledge of core other Internet/web protocols: HTTP(S)?, TCP, IP, DNS
+  - Intermediate knowledge of Linux network stack
+  - Strong knowledge of history and use of major daemons/projects of Linux userspace (`systemd`, prominent daemons, etc..)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+## Projects
 
-    *Minor: Awesomeology*
+- **LexQuest** [www.lex.quest](www.lex.quest) (source available to review)
+  - full stack application built for B2C language learning application
+  - Typescript React frontend with Django REST backend supported by Postgres database and Redis caching
+  - Features: Email Auth  # TODO
 
-Experience
-----------
+## Education
 
-**Your Most Recent Work Experience:**
+2010-2014
+: **Bachelor of Science**
+: Mathematics/computer science specialization
+: _University of Toronto, Faculty of Arts and Science_
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+2015-2016
+: **Masters of Science in Mathematics**
+: _University of Toronto, Department of Mathematics_
+: _Thesis Title: Morse Theory on Stratified Riemannian Manifolds_
 
-* First item
+2016-present
+: **Doctor of Philosophy in Mathematics (candidate)**
+: _University of Toronto, Department of Mathematics_
+ 
+## Professional Experience
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+2018-2020
+: **Course Instructor, Integral Calculus, Multivariate Analysis, Complex Analysis** - *University of Toronto - Department of Mathematics*
+:  In 2019, responsible for coordinating a team of instructors teaching 340 students, preparing course plan, assignments, and examinations. 
+Each semester responsible for preparing and delivering 40 hours of lectures, as well as engaging one-on-one with students.
 
-**That Other Job You Had**
+## Miscellaneous
 
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+- Languages: English, Polish
+- Toronto Maple Leafs fan :(
