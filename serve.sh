@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
-nodemon -w Makefile -w styles/chmduquesne.css -w markdown/resume.md -x "make pdf"
+#!/usr/bin/env zsh
+nodemon markdown/*.md(P:-w:) -x "make pdf"

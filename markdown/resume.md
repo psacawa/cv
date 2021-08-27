@@ -1,14 +1,15 @@
 # Paul Sacawa
-> *Full Stack Web Developer*
 
-> Email: <psacawa@math.toronto.edu> • Telephone: 647-403-3786 • Github: [github.com/psacawa](https://github.com/psacawa)
+> _Frontend/Backend Web Developer_
+
+> Email: <pawelsacawa@gmail.com> • Telephone: 647-403-3786 • Github: [github.com/psacawa](https://github.com/psacawa) • Private Gitlab: [https://gitlab.sacawa.net](https://gitlab.sacawa.net) (user: **cv**, password: **demopass**)
 
 ---
 
 ## Technologies/Skills
 
 - **Python**
-  - Strong understanding of standard library and PyPI ecosystem, including async
+  - Strong understanding of standard library including **asyncio** and of PyPI ecosystem
   - Deep knowledge of **Django**, **Django REST Framework** web framework: read the majority of their source code
   - **Natural language processing** with **spacy** and tranformers (**Hugging Face**)
   - Other major libraries: `asyncio`, `pytest`, `mypy`, `boto3`, `scrapy`
@@ -17,7 +18,7 @@
   - Other major libraries: **`material-ui`**, `expressjs`, `formik`, `eslint`, `webpack`, `jest`, `react-query`, `redux`
 - **SQL**
   - Advanced **PostgreSQL**, intermediate **SQLite**
-  - PostgreSQL query optimization, database administration
+  - PostgreSQL query optimization, database administration, including logical replication
   - Contributor and member of dev team of `pgcli`, most popular third-party PostgreSQL CLI client
 - **AWS Cloud**
   - Strong knowledge of major services: **EC2**, **RDS**, **Elasticache**, **S3**, **Cloudfront**, **ELB**, **IAM**, **EKS**, **SES**, **Route53**
@@ -25,30 +26,38 @@
 - **Containers**
   - Strong knowledge of **docker**
   - Practical knowledge of docker-compose as used in development environments
-  - Basic **Kubernetes**, including Minikube and production via *Elastic Kubernetes Service*
+  - Basic **Kubernetes**, including Minikube and production via **Elastic Kubernetes Service**
 - **Other Technologies**
-  - **HTML5**, including Javascript **browser APIs**, and intermediate **CSS**, including flexbox
-  - Strong knowledge of core other Internet/web protocols: **HTTP(S)?**, **TCP**, **IP**, **DNS**
+  - **HTML5**, including Javascript browser APIs, and intermediate **CSS**, including flexbox
   - Strong knowledge of Linux userspace (**systemd** and other prominent daemons)
   - Strong **POSIX shell** (zsh/bash) and **jq** (JSON processing DSL)
-  - Strong **git**, **Github Actions** 
-  - **Redis**, including Pub/Sub via channels
-  - **nginx** HTTP server, including SSL and **gunicorn** WSGI server
+  - Strong **git**, basic **Github Actions**
+  - Strong knowledge of core other Internet/web protocols: **HTTP(S)**, **TCP**, **IP**, **DNS**
+  - Intermediate **nginx** HTTP server configuration
+  - Intermediate **Redis**, including Pub/Sub via channels
 - **Additional Details**
-  - Recreational coder and informatics enthusiast since 2012
-  - **Linux** enthusiast and hobbyist hacker since 2014
+  - Recreational coder and **Linux** hobbyist since 2014
 
 ## Projects
 
-- **LexQuest** [www.lex.quest](www.lex.quest) (source available to review)
+- **LexQuest** [www.lex.quest](www.lex.quest)
+  - **source code available to review at** [https://gitlab.sacawa.net/psacawa/lektprojekt](https://gitlab.sacawa.net/psacawa/lektprojekt) (username: **cv**, password: **demopass**)
   - Full stack application built for B2C language learning application
   - Typescript React frontend with Django REST backend supported by Postgres database and Redis application cache
-  - Large datasets of linguistic data were scraped from the Internet.
-  - Transformer models were used to extract features from linguistic datasets which were interesting to language learners, which were then presented to the user view a search interface, implemented in PostgreSQL.
-  <!-- - Other features:  -->
-  <!-- audio served via AWS Cloudfront -->
-  <!-- responsive frontend -->
-  <!-- third-party authentication -->
+  - Search interface is a custom Tf-idf relevance implemented directly in Postgres SQL
+  - Machine learning used to build dataset providing value proposition
+  - RESTful authentication
+  - Built in the AWS cloud: EC2, EKS, RDS, ALB, Cloudfront, Polly
+    <!-- - Integration with Payment  -->
+    <!-- audio served via AWS Cloudfront -->
+    <!-- responsive frontend -->
+    <!-- third-party authentication -->
+
+## Open Source Contributions
+
+- **pre-commit** [`github.com/pre-commit/pre-commit`](https://github.com/pre-commit/pre-commit) Implemented post-merge hooks
+- **pgcli** [`github.com/dbcli/pgcli`](https://github.com/dbcli/pgcli)
+- **litecli** [`https://github.com/dbcli/litecli`](https://github.com/dbcli/litecli)
 
 ## Education
 
@@ -65,10 +74,15 @@
 
 ## Recent Professional Experience
 
-2018-2020
+2018-
 : **Course Instructor, Integral Calculus, Multivariate Analysis, Complex Analysis** - _University of Toronto - Department of Mathematics_
-: In 2019, responsible for coordinating a team of instructors teaching 340 students, preparing course plan, assignments, and examinations.
-Each semester responsible for preparing and delivering 40 hours of lectures, as well as engaging one-on-one with students.
+: Coordinated a team of instructors teaching 340 students, preparing course syllabus, assignments, and examinations.
+Each semester prepared and delivered ~40 hours of lectures, as well as communicated one-on-one with students.
+Developed strong communication skills.
+
+2021-
+: **Web Developer** - *LexQuest*
+: Produced frontend/backend of a complex language learning application (see *Projects*)
 
 ## Miscellaneous
 
