@@ -19,22 +19,18 @@
 - **SQL**
   - Advanced **PostgreSQL**, intermediate **SQLite**
   - PostgreSQL query optimization, database administration, including logical replication
-  - Contributor and member of dev team of `pgcli`, most popular third-party PostgreSQL CLI client
 - **AWS Cloud**
-  - Strong knowledge of major services: **EC2**, **RDS**, **Elasticache**, **S3**, **Cloudfront**, **ELB**, **IAM**, **EKS**, **SES**, **Route53**
-  - Other services used: CloudFormation, Polly (speech synthesis)
+  - Major services: **EC2**, **RDS**, **Elasticache**, **S3**, **Cloudfront**, **ELB**, **IAM**, **EKS**, **SES**, **Route53**
 - **Containers**
   - Strong knowledge of **docker**
-  - Practical knowledge of docker-compose as used in development environments
-  - Basic **Kubernetes**, including Minikube and production via **Elastic Kubernetes Service**
+  - **Kubernetes** in production via **Elastic Kubernetes Service**
 - **Other Technologies**
-  - **HTML5**, including Javascript browser APIs, and intermediate **CSS**, including flexbox
-  - Strong knowledge of Linux userspace (**systemd** and other prominent daemons)
-  - Strong **POSIX shell** (zsh/bash) and **jq** (JSON processing DSL)
-  - Strong **git**, basic **Github Actions**
-  - Strong knowledge of core other Internet/web protocols: **HTTP(S)**, **TCP**, **IP**, **DNS**
-  - Intermediate **nginx** HTTP server configuration
-  - Intermediate **Redis**, including Pub/Sub via channels
+  - HTML5, CSS
+  - Strong knowledge of Linux userspace
+  - Strong **POSIX shell** (zsh/bash)
+  - Strong **git**, **Github Actions**
+  - Intermediate **nginx** HTTP server
+  - Intermediate **Redis**
 - **Additional Details**
   - Recreational coder and **Linux** hobbyist since 2014
 
@@ -42,13 +38,12 @@
 
 - **LexQuest** [www.lex.quest](www.lex.quest)
   - **source code available to review at** [https://gitlab.sacawa.net/psacawa/lektprojekt](https://gitlab.sacawa.net/psacawa/lektprojekt) (username: **cv**, password: **demopass**)
-  - Full stack application built for B2C language learning application
   - Typescript React frontend with Django REST backend supported by Postgres database and Redis application cache
-  - Search interface is a custom Tf-idf relevance implemented directly in Postgres SQL
+  - Search  implemented directly in Postgres SQL
   - Machine learning used to build dataset providing value proposition
   - RESTful authentication
   - Built in the AWS cloud: EC2, EKS, RDS, ALB, Cloudfront, Polly
-    <!-- - Integration with Payment  -->
+  - Implemented integration with credit card payment processor Stripe
     <!-- audio served via AWS Cloudfront -->
     <!-- responsive frontend -->
     <!-- third-party authentication -->
