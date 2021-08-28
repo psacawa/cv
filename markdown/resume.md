@@ -15,7 +15,9 @@
   - Other major libraries: `asyncio`, `pytest`, `mypy`, `boto3`, `scrapy`
 - **Javascript (browser/nodejs), Typescript**
   - Primarily focussed on frontend development in **React** with **Typescript**
-  - Other major libraries: **`material-ui`**, `expressjs`, `formik`, `eslint`, `webpack`, `jest`, `react-query`, `redux`
+  - Other major libraries: **`material-ui`**, `expressjs`, `webpack`, `jest`, `redux`
+  - Test frameworks; `jest`,  `cypress`
+
 - **SQL**
   - Advanced **PostgreSQL**, intermediate **SQLite**
   - PostgreSQL query optimization, database administration, including logical replication
@@ -48,12 +50,6 @@
     <!-- responsive frontend -->
     <!-- third-party authentication -->
 
-## Open Source Contributions
-
-- **pre-commit** [`github.com/pre-commit/pre-commit`](https://github.com/pre-commit/pre-commit) Implemented post-merge hooks
-- **pgcli** [`github.com/dbcli/pgcli`](https://github.com/dbcli/pgcli)
-- **litecli** [`https://github.com/dbcli/litecli`](https://github.com/dbcli/litecli)
-
 ## Education
 
 2010-2014
@@ -64,23 +60,30 @@
 : **Masters of Science in Mathematics** _University of Toronto, Department of Mathematics_
 : Thesis Title: _Morse Theory on Stratified Riemannian Manifolds_
 
-2016-present
-: **Doctor of Philosophy in Mathematics (candidate)** _University of Toronto, Department of Mathematics_
+<!-- 2016-present -->
+<!-- : **Doctor of Philosophy in Mathematics (candidate)** _University of Toronto, Department of Mathematics_ -->
 
-## Recent Professional Experience
+<!-- ## Recent Professional Experience -->
 
-2018-
-: **Course Instructor, Integral Calculus, Multivariate Analysis, Complex Analysis** - _University of Toronto - Department of Mathematics_
-: Coordinated a team of instructors teaching 340 students, preparing course syllabus, assignments, and examinations.
-Each semester prepared and delivered ~40 hours of lectures, as well as communicated one-on-one with students.
-Developed strong communication skills.
+<!-- 2018- -->
+<!-- : **Course Instructor, Integral Calculus, Multivariate Analysis, Complex Analysis** - _University of Toronto - Department of Mathematics_ -->
+<!-- : Coordinated a team of instructors teaching 340 students, preparing course syllabus, assignments, and examinations. -->
+<!-- Each semester prepared and delivered ~40 hours of lectures, as well as communicated one-on-one with students. -->
+<!-- Developed strong communication skills. -->
 
-2021-
-: **Web Developer** - *LexQuest*
-: Produced frontend/backend of a complex language learning application (see *Projects*)
+<!-- 2021- -->
+<!-- : **Web Developer** - *LexQuest* -->
+<!-- : Produced frontend/backend of a complex language learning application (see *Projects*) -->
+
+
+## Open Source Contributions
+
+- **pre-commit** [`github.com/pre-commit/pre-commit`](https://github.com/pre-commit/pre-commit) Implemented post-merge hooks
+- **pgcli** [`github.com/dbcli/pgcli`](https://github.com/dbcli/pgcli)
+- **litecli** [`https://github.com/dbcli/litecli`](https://github.com/dbcli/litecli)
 
 ## Miscellaneous
 
 - Languages: English, Polish
-- Citizen of Canada
+- Citizen of Poland, Canada
 - Toronto Maple Leafs fan :(
